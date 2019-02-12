@@ -1,0 +1,7 @@
+/Users/Olya/Desktop/Calendar.solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.deps.json
+/Users/Olya/Desktop/Calendar.solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/Olya/Desktop/Calendar.solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.csproj.CoreCompileInputs.cache
+/Users/Olya/Desktop/Calendar.solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.AssemblyInfo.cs
+/Users/Olya/Desktop/Calendar.solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.pdb

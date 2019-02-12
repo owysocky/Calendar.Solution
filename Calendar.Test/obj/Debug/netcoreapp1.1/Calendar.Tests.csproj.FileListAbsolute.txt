@@ -1,0 +1,14 @@
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Calendar.Tests.deps.json
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.json
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.dev.json
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Calendar.Tests.pdb
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/obj/Debug/netcoreapp1.1/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/obj/Debug/netcoreapp1.1/Calendar.Tests.AssemblyInfo.cs
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/obj/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/Olya/Desktop/Calendar.solution/Calendar.Test/obj/Debug/netcoreapp1.1/Calendar.Tests.pdb
